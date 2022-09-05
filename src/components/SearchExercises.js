@@ -1,8 +1,11 @@
 import React from 'react'
+import banner from '../assets/images/banner.png'
 
 const SearchExercises = () => {
   return (
-    <div>SearchExercises</div>
+    <div>
+        {/* <img src={banner} alt='banner'/> */}
+    </div>
   )
 }
 
